@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "946613329179",
+    "firebase_url": "https://kingcashgame.firebaseio.com",
+    "project_id": "kingcashgame",
+    "storage_bucket": "kingcashgame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946613329179:android:c6b0677bc99f7295b607be",
+        "android_client_info": {
+          "package_name": "com.jeanlouisgosselin123.king_cash_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946613329179-lg97cvl1tea1cqm0kjlhd6v6rht9o3ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvpE7FnxykAEp43c7Nioo_KnnNSOG8Y4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946613329179-lg97cvl1tea1cqm0kjlhd6v6rht9o3ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
